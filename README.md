@@ -1,4 +1,4 @@
-# ReconocimientoVoz_CristianRodriguezNavarro
+# Reconocimiento de Voz
 
 ![pantalla](img/pantalla.png)
 
