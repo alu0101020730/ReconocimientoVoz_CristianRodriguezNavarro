@@ -102,7 +102,7 @@ public class Dict : MonoBehaviour
 }
 ```
 
-Ejemplos de funcionamiento
-![keyword](img/keyword.png)
-![keyLog](img/keyLog.png)
-![dictLog](img/dictLog.png)
+## Ejemplos de funcionamiento  
+![keyword](img/keyword.png)  
+![keyLog](img/keyLog.png)  
+![dictLog](img/dictLog.png)  
