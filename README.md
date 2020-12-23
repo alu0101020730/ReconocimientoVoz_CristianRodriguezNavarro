@@ -103,6 +103,9 @@ public class Dict : MonoBehaviour
 ```
 
 ## Ejemplos de funcionamiento  
+KeywordRecognizer  
 ![keyword](img/keyword.png)  
 ![keyLog](img/keyLog.png)  
+  
+DictationRecognizer  
 ![dictLog](img/dictLog.png)  
